@@ -1,0 +1,4 @@
+
+1 - Request product by ID
+2 - Request all products in cart
+3 - exit
