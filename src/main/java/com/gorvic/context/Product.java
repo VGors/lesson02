@@ -15,7 +15,11 @@ public class Product {
         this.price = price;
     }
 
-    public double getId() {
+    public float getPrice() {
+        return price;
+    }
+
+    public int getId() {
         return id;
     }
 
